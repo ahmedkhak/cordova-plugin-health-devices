@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="com.example.hello" version="0.7.0">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="cordova-plugin-health-devices" version="0.1.0">
 	<name>Hello</name>
+	<repo>https://github.com/ahmedkhak/cordova-plugin-health-devices.git</repo>
 	<engines>
 		<engine name="cordova" version=">=3.4.0"/>
 	</engines>
